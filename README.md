@@ -4,26 +4,44 @@ This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+🏥 CareBridge
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+Connecting Healthcare. Improving Patient Care.
 
-## Development
+CareBridge is a healthcare coordination platform built for a hackathon to streamline patient follow-ups across clinics, laboratories, and pharmacies.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+✨ Features
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+📋 Task Tracking — Manage pending and completed patient-care tasks.
 
-## Built with
+🔔 Missed-Step Detection — Identify overdue follow-ups and unresolved cases.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+📅 Appointment Coordination — Organize appointments and referrals.
+
+🚨 Smart Escalations — Flag unresolved cases for authorized staff.
+
+🔐 Privacy & Access Control — Support patient consent and role-based permissions.
+
+🛠️ Built With
+
+Lovable (AI-assisted development)
+
+Frontend and backend technologies configured in the project
+
+🎯 Goal
+
+To improve healthcare coordination, reduce missed follow-ups, and make patient care more connected and efficient.
+
+🔮 Future Scope
+
+Automated reminders and notifications
+
+Laboratory and pharmacy integrations
+
+Advanced analytics and reporting
+
+⚠️ Disclaimer
+
+CareBridge is a hackathon demonstration project. Use synthetic data for demos; production use requires appropriate security, privacy, and compliance validation.
+
+CareBridge — Because Every Step in Patient Care Matters. ❤️
