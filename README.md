@@ -6,33 +6,33 @@ This project was built with [Lovable](https://lovable.dev).
 
 🏥 CareBridge
 
-Connecting Healthcare. Improving Patient Care.
+Bridging the Gap in Healthcare Coordination
 
-CareBridge is a healthcare coordination platform built for a hackathon to streamline patient follow-ups across clinics, laboratories, and pharmacies.
+CareBridge is a modern healthcare coordination platform designed to connect clinics, laboratories, and pharmacies through a centralized patient-care workflow. It helps healthcare teams manage follow-ups, track pending tasks, coordinate appointments, and identify missed steps.
 
-✨ Features
+✨ Key Features
 
-📋 Task Tracking — Manage pending and completed patient-care tasks.
+Patient Task Management — Track pending, completed, and overdue tasks.
 
-🔔 Missed-Step Detection — Identify overdue follow-ups and unresolved cases.
+Missed-Step Detection — Identify delayed follow-ups and unresolved cases.
 
-📅 Appointment Coordination — Organize appointments and referrals.
+Appointment & Referral Coordination — Organize care activities across providers.
 
-🚨 Smart Escalations — Flag unresolved cases for authorized staff.
+Escalation Management — Flag unresolved cases for authorized staff.
 
-🔐 Privacy & Access Control — Support patient consent and role-based permissions.
+Privacy & Access Control — Support patient consent and role-based permissions.
+
+🎯 Our Mission
+
+To make healthcare more connected, organized, and efficient by ensuring that important patient-care tasks don't go unnoticed.
 
 🛠️ Built With
 
-Lovable (AI-assisted development)
+Lovable — AI-assisted development
 
 Frontend and backend technologies configured in the project
 
-🎯 Goal
-
-To improve healthcare coordination, reduce missed follow-ups, and make patient care more connected and efficient.
-
-🔮 Future Scope
+🚀 Future Scope
 
 Automated reminders and notifications
 
@@ -40,8 +40,12 @@ Laboratory and pharmacy integrations
 
 Advanced analytics and reporting
 
-⚠️ Disclaimer
+🔒 Privacy & Security
 
-CareBridge is a hackathon demonstration project. Use synthetic data for demos; production use requires appropriate security, privacy, and compliance validation.
+CareBridge is a hackathon demonstration project. Use synthetic data for demos. Production deployment requires appropriate security, privacy, and compliance validation.
 
-CareBridge — Because Every Step in Patient Care Matters. ❤️
+<div align="center">
+
+CareBridge ❤️
+
+Connecting Providers. Coordinating Care. Improving Outcomes.
